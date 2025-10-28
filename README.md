@@ -1,0 +1,2 @@
+# Proyecto_Analisis_Imagenes_Red_Neuronal
+En este proyecto se busca analizar imagenes por medio de redes neuronales pre-entrenadas, el objetivo es verificar la clasificacion correcta por tipo de tumor cerabral y ver que componentes de la imagen aportan mas al modelo

@@ -44,7 +44,5 @@ Brain_Cancer/
   Tumor/
     img_001.jpg
     ...
-
-
-# link del conjunto de datos
+link del conjunto de datos
 https://drive.google.com/drive/folders/1b-yI2hAqoC4OenQizd6LD7BwCam0iEG4
